@@ -1,9 +1,3 @@
-/***********************************************************
-File name: 06_LCD1602.ino
-Description: LCD1602 display a string "Hello Geeks!" scrolling，
-             then display “QuadStore” and “www.quadstore.in” static.
-Website: www.quadstore.in
-***********************************************************/
 
 #include <LiquidCrystal.h>
 
